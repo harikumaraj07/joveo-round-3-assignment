@@ -1,0 +1,16 @@
+.movie-card {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.movie-card-image {
+    width: 300px;
+    height: 200px;
+}
+
+.movie-card-overview {
+    height: 20px;
+    text-overflow: ellipsis;
+    white-space: no-wrap;
+    overflow: hidden;
+}
